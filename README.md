@@ -39,12 +39,17 @@ IoT 개발자 알고리즘고급(코딩테스트) 학습리포지토리
         - Java, C#, Kotlin 중간
         - C, C++ 어려움
 
-- 학습 순서 - 책 순서대로
-
-- [복잡도]()
-- [그리디]()
+- 코딩테스트 학습
+    - [x] [복잡도](https://github.com/qkrskdusdlqslek/IoT-CodingTest-2024/blob/main/day1/ct001_complexity.ipynb)
+    - [x] [그리디](https://github.com/qkrskdusdlqslek/IoT-CodingTest-2024/blob/main/day1/ct002_greedy.ipynb)
 
 ## 2일차
+- 코딩테스트 학습
+    - [ ] [구현]()
+    - [ ] [DFS]()
+    - [ ] [BFS]()
+    - [ ] [DP]()
+    - [ ] [Graph]()
 
 ## 3일차
 
