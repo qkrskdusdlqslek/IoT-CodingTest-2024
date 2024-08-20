@@ -45,11 +45,11 @@ IoT 개발자 알고리즘고급(코딩테스트) 학습리포지토리
 
 ## 2일차
 - 코딩테스트 학습
-    - [ ] [구현](https://github.com/qkrskdusdlqslek/IoT-CodingTest-2024/blob/main/day2/ct003_implement.ipynb)
+    - [x] [구현](https://github.com/qkrskdusdlqslek/IoT-CodingTest-2024/blob/main/day2/ct003_implement.ipynb)
 
 ## 3일차
 - 코딩테스트 학습
-    - [ ] [DFS, BFS](https://github.com/qkrskdusdlqslek/IoT-CodingTest-2024/blob/main/day3/ct004_dfs_bfs.ipynb)
+    - [x] [DFS, BFS](https://github.com/qkrskdusdlqslek/IoT-CodingTest-2024/blob/main/day3/ct004_dfs_bfs.ipynb)
     - [ ] [DP]()
     - [ ] [Graph]()
 
